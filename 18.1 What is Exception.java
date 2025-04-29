@@ -1,5 +1,5 @@
 Types of error:-
-1. Complile - time error
+1. Complile - time errorr
 2. Runtime error -> Exception handling
 3. Logical error
 
